@@ -1,4 +1,4 @@
-# Darcy Flow Circle Dataset
+# Nagumo SPDE
 
 ## Dataset
 

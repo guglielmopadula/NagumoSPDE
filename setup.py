@@ -4,9 +4,9 @@ setup.py
 from setuptools import setup, find_packages
 
 # Package meta-data.
-NAME = 'stochasticheatequation'
-DESCRIPTION = 'Darcy Flow on a Circle'
-URL = 'https://github.com/gpadula/StochasticHeatEquation'
+NAME = 'nagumospde'
+DESCRIPTION = 'Nagumo SPDE'
+URL = 'https://github.com/gpadula/NagumoSPDE'
 MAIL = 'gpadula@sissa.it'
 AUTHOR = 'Guglielmo Padula'
 VERSION = '0'
